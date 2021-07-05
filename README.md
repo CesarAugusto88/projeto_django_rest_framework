@@ -1,4 +1,4 @@
-# Projeto Djando Rest Framework
+# Projeto Django Rest Framework
 
 ## Table of Contents
 
